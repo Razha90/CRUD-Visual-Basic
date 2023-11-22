@@ -1,0 +1,12 @@
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\bin\Debug\Kampus.exe.config
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\bin\Debug\Kampus.exe
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\bin\Debug\Kampus.pdb
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\bin\Debug\Kampus.xml
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.vbproj.AssemblyReference.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.Form1.resources
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.Resources.resources
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.vbproj.GenerateResource.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.vbproj.CoreCompileInputs.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.exe
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.xml
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\CRUD\Kampus\Kampus\obj\Debug\Kampus.pdb
